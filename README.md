@@ -20,18 +20,6 @@ My name is **Ronaldo Correa**. I worked as mechanical engineer for more than 15 
 
 - 1992 to 1998
 
-### Computer Programmer at Algonquin College
-
-- May 2018 to June 2020
-
-### Project Manager at Universidade Catolica de Brasilia
-
-- 2009 to 2011
-
-### Mechanical Engineer at UNB
-
-- 1992 to 1998
-
 ## Skills
 
 - JavaScript
