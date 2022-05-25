@@ -10,7 +10,7 @@ My name is **Ronaldo Correa**. I worked as mechanical engineer for more than 15 
 
 ### Computer Programmer at Algonquin College
 
-- May 2018 to June 2020
+- 2018 to 2020
 
 ### Project Manager at Universidade Catolica de Brasilia
 
