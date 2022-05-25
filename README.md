@@ -42,4 +42,5 @@ Now, I have already been working as Frontend engineer for aproximately 3 years.
 
 - Frontend engineer at Amazon AWS - May 2022 - preset
 - Frontend developer at Thinktank Automation LTD - Jan 2020 - May 2022
+- Web assistant - Jun 2019 - Dec 2019
 - Project Manager and mechanical engineer at Infraero - March 2004 - June 2017
