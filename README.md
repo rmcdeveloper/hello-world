@@ -4,7 +4,7 @@ A little bit of me.
 
 ## About me
 
-My name is **Ronaldo Correa**. I worked as mechanical engineer for more than 15 years, changing to a Frontend developer which is my real passion. Now, I have already been working as Frontend engineer for aproximately 3 years.
+My name is **Ronaldo Correa**. I worked as mechanical engineer for more than 15 years, changing to a Frontend developer which is my new passion. Now, I have already been working as Frontend engineer for aproximately 3 years.
 
 ## Education
 
@@ -26,8 +26,6 @@ My name is **Ronaldo Correa**. I worked as mechanical engineer for more than 15 
 - CSS
 - React
 - HTML
-- Java
-- Python
 
 ## APIs
 
@@ -35,6 +33,8 @@ My name is **Ronaldo Correa**. I worked as mechanical engineer for more than 15 
 - React-query
 - Primereact
 - Bootstrap
+- ExpressJS
+- NodeJS
 
 ## Experience
 
